@@ -1,0 +1,6 @@
+# Extra terms to keep in English (one per line, or comma-separated).
+# They are ADDED to the built-in list. If this file has no terms
+# (only # lines or empty), the built-in list is used alone.
+# Example:
+# Flask
+# blueprint, route

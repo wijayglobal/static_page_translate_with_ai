@@ -1,0 +1,5 @@
+# One URL per line. Lines starting with # are ignored.
+# A Django docs path (without https://) also works.
+intro/tutorial01/
+intro/tutorial02/
+# https://realpython.com/django-setup/

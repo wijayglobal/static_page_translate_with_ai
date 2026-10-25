@@ -1,0 +1,8 @@
+requests
+beautifulsoup4
+# only for the 'google' engine:
+deep-translator
+# only for the offline 'nllb' engine (large download):
+# transformers
+# torch
+# sentencepiece
